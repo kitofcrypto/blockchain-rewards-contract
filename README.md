@@ -32,3 +32,4 @@ contract RewardSystem is Ownable {
         emit RewardClaimed(msg.sender, amount);
     }
 }
+357
